@@ -1,4 +1,9 @@
 body{
-  background-image: body{
-    background-image: image(.pict/images.jpg)
+    background-image: image(.pict/images.jpg);
+}
+.header{
+  display:flex; width: 100%;
+}
+.img header{
+  width: 20%; border: 3px 3px 3px black; border-radius: 10%;
 }
