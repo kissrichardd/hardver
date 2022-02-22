@@ -1,6 +1,6 @@
 * {box-sizing:border-box}
 body {
-    background-image: url("./pict/images.jpg"); background-repeat:no-repeat;background-size: cover;background-attachment: fixed;
+    background-image: url(./pict/images.jpg); background-repeat:no-repeat;background-size: cover;background-attachment: fixed;
 }
 .header{
     display: flex; justify-content: space-around; width:100%
