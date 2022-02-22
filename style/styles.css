@@ -17,3 +17,5 @@ body {
 h1 {
     text-align: center; color:brown; text-shadow: 3px 3px 3px black;
 }
+nav {
+    display: flex; 
