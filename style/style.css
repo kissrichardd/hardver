@@ -1,5 +1,5 @@
 body{
-    background-image: image(.pict/images.jpg);
+    background-image: url(.pict/images.jpg);
 }
 .header{
   display:flex; width: 100%;
